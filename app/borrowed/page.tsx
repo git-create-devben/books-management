@@ -35,7 +35,7 @@ export default function BorrowedPage() {
             </div>
             <h3 className="mt-4 text-lg font-medium text-foreground">No books borrowed</h3>
             <p className="mt-2 text-sm text-muted-foreground max-w-md mx-auto">
-              You haven't borrowed any books yet. Browse our collection and find something interesting to read.
+              You haven&apos;t borrowed any books yet. Browse our collection and find something interesting to read.
             </p>
             <Button className="mt-6" asChild>
               <Link href="/books">Browse Books</Link>
